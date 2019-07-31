@@ -1,0 +1,218 @@
+,Country,City,Count,Orginal_GPE
+0,Canada,London,476,London
+1,United Kingdom,York,293,New York
+2,France,Paris,266,Paris
+3,Japan,,235,Japan
+4,India,,220,India
+5,Canada,,196,Canada
+6,Australia,,190,Australia
+7,Colombia,Florida,162,Florida
+8,Italy,,161,Italy
+9,Spain,,155,Spain
+10,United States,California,151,California
+11,China,,149,China
+12,France,,147,France
+13,Mexico,,136,Mexico
+14,New Zealand,,131,New Zealand
+15,Argentina,,128,Argentina
+16,United States,Santa,122,Santa
+17,United States,Chicago,117,Chicago
+18,Iceland,,116,Iceland
+19,Hong Kong,,116,Hong Kong
+20,Tanzania,,110,Tanzania
+21,Italy,Rome,108,Rome
+22,Thailand,,105,Thailand
+23,United States,Hawaii,101,Hawaii
+24,United States,San Francisco,98,San Francisco
+25,Singapore,,96,Singapore
+26,Vietnam,,94,Vietnam
+27,Costa Rica,,94,Costa Rica
+28,Ireland,,89,Ireland
+29,Greece,,87,Greece
+30,Peru,Ica,87,America
+31,Australia,Sydney,86,Sydney
+32,Philippines,Glan,85,England
+33,United States,New York City,82,New York City
+34,Tanzania,,80,"Escape,Tanzania"
+35,Spain,Barcelona,78,Barcelona
+36,United States,Los Angeles,77,Los Angeles
+37,Italy,Venice,77,Venice
+38,Germany,,75,Germany
+39,United States,Miami,73,Miami
+40,Canada,Toronto,73,Toronto
+41,Japan,Tokyo,71,Tokyo
+42,Turkey,,65,Turkey
+43,Egypt,,65,Egypt
+44,United Arab Emirates,Dubai,61,Dubai
+45,Portugal,,60,Portugal
+46,United States,Las Vegas,60,Las Vegas
+47,United States,New Orleans,58,New Orleans
+48,Brazil,,57,Brazil
+49,Czech Republic,Prague,57,Prague
+50,Sri Lanka,,57,Sri Lanka
+51,Cambodia,,56,Cambodia
+52,Switzerland,,56,Switzerland
+53,United Kingdom,Boston,55,Boston
+54,South Africa,,54,South Africa
+55,Ireland,Dublin,53,Dublin
+56,Cuba,,52,Cuba
+57,Brazil,Colorado,51,Colorado
+58,Germany,Berlin,48,Berlin
+59,Costa Rica,San Diego,46,San Diego
+60,Netherlands,Amsterdam,45,Amsterdam
+61,Austria,Vienna,45,Vienna
+62,Norway,,45,Norway
+63,Georgia,,45,Georgia
+64,Bahamas,,44,Bahamas
+65,Malaysia,,44,Malaysia
+66,China,Anbu,44,Istanbul
+67,United States,Atlanta,42,Atlanta
+68,Peru,,42,Peru
+69,Colombia,,42,Colombia
+70,Cameroon,Bali,41,Bali
+71,United Kingdom,Washington,41,Washington
+72,United States,Seattle,40,Seattle
+73,Philippines,,39,Philippines
+74,United States,Oregon,39,Oregon
+75,United States,Orlando,38,Orlando
+76,Sweden,,37,"Stockholm,Sweden"
+77,Indonesia,,36,Indonesia
+78,France,,36,"Paris,France"
+79,Sweden,,36,Sweden
+80,United States,Los Angeles,35,"California,Los Angeles"
+81,Cuba,,33,"Cuba,Havana"
+82,Ecuador,,32,Ecuador
+83,Niger,,32,Nigeria
+84,United States,Dallas,32,Dallas
+85,United States,New York City,32,"New York,New York City"
+86,Mexico,,31,New Mexico
+87,United States,Edinburg,31,Edinburgh
+88,Japan,,30,"Tokyo,Japan"
+89,Mexico,,30,Mexico City
+90,Pakistan,,30,Pakistan
+91,Colombia,Madrid,30,Madrid
+92,Jamaica,,30,Jamaica
+93,Jordan,,29,Jordan
+94,United Kingdom,,29,United Kingdom
+95,Thailand,Bangkok,29,Bangkok
+96,Russia,,29,Russia
+97,Hungary,Budapest,28,Budapest
+98,Brazil,Carolina,27,North Carolina
+99,Morocco,,27,Morocco
+100,United States,Manhattan,27,Manhattan
+101,Peru,Lima,26,Lima
+102,Jersey,,26,New Jersey
+103,Taiwan,,26,Taiwan
+104,Chile,,25,Chile
+105,Panama,,24,Panama
+106,Kenya,,24,Kenya
+107,Latvia,,24,"Latvia,Riga"
+108,Netherlands,,24,Netherlands
+109,Cuba,Havana,24,Havana
+110,United States,,24,United States
+111,Australia,Victoria,23,Victoria
+112,Australia,,23,"Sydney,Australia"
+113,Austria,,23,Austria
+114,United Kingdom,,23,"United Kingdom,London"
+115,Puerto Rico,,23,Puerto Rico
+116,Ireland,,22,Northern Ireland
+117,United States,Denver,22,Denver
+118,Israel,,22,Israel
+119,Canada,Vancouver,22,Vancouver
+120,Ireland,,21,# Ireland
+121,India,Mumbai,21,Mumbai
+122,United States,Houston,21,Houston
+123,Sweden,Stockholm,21,Stockholm
+124,United Kingdom,Belfast,21,Belfast
+125,United States,Hollywood,21,Hollywood
+126,United States,Phoenix,20,"Phoenix,Arizona"
+127,Colombia,Florida,20,"Florida,Orlando"
+128,Italy,,20,"Italy,Venice"
+129,Brazil,Capela,20,La Capela
+130,Croatia,,20,Croatia
+131,Iran,,20,Iran
+132,Greece,Athens,20,Athens
+133,United Kingdom,Birmingham,19,Birmingham
+134,China,Beijing,19,Beijing
+135,Algeria,Mila,19,Milan
+136,Aruba,,19,Aruba
+137,Poland,,19,Poland
+138,Ghana,Wa,18,Wales
+139,South Africa,Virginia,18,Virginia
+140,United States,Columbia,18,British Columbia
+141,Finland,,18,Finland
+142,United Kingdom,Manchester,18,Manchester
+143,Spain,,18,"Spain,Barcelona"
+144,United States,Charleston,18,Charleston
+145,India,Loni,18,Cephalonia
+146,United Kingdom,Brighton,18,Brighton
+147,China,Shanghai,18,Shanghai
+148,Belize,,18,Belize
+149,Thailand,,18,"Thailand,Bangkok"
+150,Thailand,,18,Northern Thailand
+151,Thailand,,18,"Thailand,Thailand Beach"
+152,Italy,,18,"Italy,Rome"
+153,Russia,Moscow,18,Moscow
+154,United States,Portland,17,Portland
+155,United States,Miami Beach,17,Miami Beach
+156,Oman,,17,Romania
+157,Portugal,Lisbon,17,Lisbon
+158,Thailand,,17,"Chiang Mai , Thailand & Shipped,the U K Handcrafted"
+159,India,Un,17,Sunshine State
+160,India,Delhi,16,Delhi
+161,United States,Brooklyn,16,Brooklyn
+162,Netherlands,,16,"Netherlands,Amsterdam"
+163,Italy,Como,16,Como
+164,Denmark,,16,Denmark
+165,United States,Monterey,16,"Monterey,California"
+166,Italy,Massa,16,Massachusetts
+167,Germany,Munich,16,Munich
+168,Belgium,Brussels,16,Brussels
+169,India,Uran,16,Liburan
+170,Japan,Kyoto,16,Kyoto
+171,United States,Cleveland,15,Cleveland
+172,China,,15,"China,Beijing"
+173,United States,Pittsburgh,15,Pittsburgh
+174,Indonesia,Jakarta,15,Jakarta
+175,South Korea,Seoul,15,Seoul
+176,Bulgaria,,15,Bulgaria
+177,United States,,15,the United States
+178,Colombia,Florida,15,"Miami,Florida"
+179,Costa Rica,San Diego,15,"California,San Diego"
+180,Mali,San,15,Thisand
+181,India,,15,Indiana
+182,Germany,,14,# Germany
+183,India,Mon,14,Montreal
+184,Sri Lanka,,14,"England,Sri Lanka"
+185,Brazil,Carolina,14,South Carolina
+186,Australia,Perth,14,Perth
+187,United States,Honolulu,14,Honolulu
+188,Indonesia,Malang,14,Malang
+189,Japan,Osaka,14,Osaka
+190,United States,Sylvania,14,Pennsylvania
+191,Fiji,,14,Fiji
+192,Ivory Coast,Man,13,Tasmania
+193,China,,13,"China,Shanghai"
+194,United States,Brea,13,Breakfast
+195,Serbia,Belgrade,13,Belgrade
+196,India,Un,13,Punta
+197,Australia,Liverpool,13,Liverpool
+198,Belgium,,13,Belgium
+199,Ukraine,,13,Ukraine
+200,Albania,,13,Albania
+201,Peru,,13,"Lima,Peru"
+202,Hungary,,13,Hungary
+203,United States,Portland,13,"Oregon,Portland"
+204,South Korea,,13,South Korea
+205,France,Strasbourg,13,Strasbourg
+206,Turkey,Rize,12,Frize Media
+207,Austria,Salzburg,12,Salzburg
+208,Lebanon,Beirut,12,Beirut
+209,Australia,,12,"Sydney,Denver,Australia"
+210,Slovenia,,12,Slovenia
+211,Argentina,San Juan,12,San Juan
+212,Norway,Oslo,12,Oslo
+213,Japan,,12,"Japan,Kyoto"
+214,Chile,San Antonio,12,San Antonio
+215,Turkmenistan,Mary,12,Maryland
+216,Bulgaria,Montana,12,Montana
